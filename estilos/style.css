@@ -6,10 +6,12 @@
 body {
     background-color: rgb(180, 140, 218);
 }
-
+img.lado {
+    float: right;
+}
 main {
     background-color: white;
-    width: 500px;
+    width: 720px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
